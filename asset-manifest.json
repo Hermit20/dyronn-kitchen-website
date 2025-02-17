@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dyronn-kitchen-website/static/css/main.ebe9ffb4.css",
+    "main.js": "/dyronn-kitchen-website/static/js/main.2bf7a18a.js",
+    "static/js/453.9ff437ed.chunk.js": "/dyronn-kitchen-website/static/js/453.9ff437ed.chunk.js",
+    "static/media/Founder.jpg": "/dyronn-kitchen-website/static/media/Founder.a2c221968638e156722b.jpg",
+    "static/media/Dyronn-Kitchen.png": "/dyronn-kitchen-website/static/media/Dyronn-Kitchen.c0f6645bfd878a3ab58a.png",
+    "static/media/Playlist-Script.woff": "/dyronn-kitchen-website/static/media/Playlist-Script.39787615be0f47208fba.woff",
+    "static/media/Playlist-Script.woff2": "/dyronn-kitchen-website/static/media/Playlist-Script.37880a2a1b9f634a4264.woff2",
+    "static/media/helvetica-neu.ttf": "/dyronn-kitchen-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/dyronn-kitchen-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/dyronn-kitchen-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo.svg": "/dyronn-kitchen-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dyronn-kitchen-website/index.html",
+    "main.ebe9ffb4.css.map": "/dyronn-kitchen-website/static/css/main.ebe9ffb4.css.map",
+    "main.2bf7a18a.js.map": "/dyronn-kitchen-website/static/js/main.2bf7a18a.js.map",
+    "453.9ff437ed.chunk.js.map": "/dyronn-kitchen-website/static/js/453.9ff437ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe9ffb4.css",
+    "static/js/main.2bf7a18a.js"
+  ]
+}
