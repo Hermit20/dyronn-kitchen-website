@@ -2,7 +2,7 @@
   "name": "dyronn-kitchen-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Hermit20.github.io/dyronn-kitchen-website",
+  "homepage": "https://hermit20.github.io/dyronn-kitchen-website",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
